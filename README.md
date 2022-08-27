@@ -1,2 +1,2 @@
 # Reduce_Exercise
-JS exercise creating functions using reduce
+JS exercise creating functions utilizing reduce
